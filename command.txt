@@ -1,0 +1,32 @@
+chunk_split - Добавляет строку на фрагменты добавляя разделитель
+explode - Разбивает строку с помощью разделителя
+htmlentities
+htmlspecialchars
+html_entity_decode
+htmlspecialchars_decode
+implode
+ltrim
+rtrim
+nl2br
+parse_str - разделить строку 
+str_replace - вырезать из строки подстроку
+str_split
+strip_tags
+strlen - длина строки
+strstr
+strtok
+substr_count
+substr_replace
+substr
+trim
+ucfirst
+mb_convert_encoding
+mb_detect_encoding
+mb_ereg
+mb_internal_encoding
+mb_language
+mb_split
+mb_strlen
+mb_strpos
+mb_substr
+mb_substr_count
